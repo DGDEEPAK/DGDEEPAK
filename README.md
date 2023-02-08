@@ -1,5 +1,12 @@
-### Hi there 👋
-<h1 align="center">ꪶDream Guy Deepakꫂ<br></h1>
+### About me 
+
+- 👋 Hi, I’m Deepak
+- 🙋 I am just a student
+- 👨🏻‍🦱 16 years old
+- 🇮🇳 From India , West Bengal, Darjeeling 
+- 🤩 I’m interested in javascript
+- 🔭 I’m currently working on whatsapp bot
+- 👯 I’m looking to collaborate on whatsapp bots and WhatsApp mod 
 
 <!--
 **DGDEEPAK/DGDEEPAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
