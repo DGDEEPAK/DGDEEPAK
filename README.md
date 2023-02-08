@@ -1,8 +1,5 @@
 ### Hi there 👋
 <h1 align="center">ꪶDream Guy Deepakꫂ<br></h1>
-<p align="center">
-<img src="https://i.ibb.co/YPGXwjM/images-2.jpg"
-</p>
 
 <!--
 **DGDEEPAK/DGDEEPAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
