@@ -1,6 +1,6 @@
 ### About me 
 
-<a href='https://www.linkpicture.com/view.php?img=LPic63e3b76cd82491659056051'><img src='https://www.linkpicture.com/q/images-2_351.jpeg' type='image'></a>
+<a href='https://www.linkpicture.com/view.php?img=LPic63e3b899cd5f81214698527'><img src='https://www.linkpicture.com/q/IMG_20230208_202809.jpg' type='image'></a>
 
 - 👋Hi, I’m Deepak
 - 🙋I am just a student
