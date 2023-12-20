@@ -1,6 +1,4 @@
-### About me 
-
-<a href='https://www.linkpicture.com/view.php?img=LPic63e3b899cd5f81214698527'><img src='https://www.linkpicture.com/q/IMG_20230208_202809.jpg' type='image'></a>
+### About me
 
 <p align="center">
   <a href="https://github.com/DGDEEPAK"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Dream+Guy+Deepak;Follow+My+Github" alt="UwU">
