@@ -1,4 +1,9 @@
 ### About me
+<h1 align="center">ꪶ🦄Dream Guy Deepakꫂ<br></h1>
+
+<a href="https://ibb.co/7k1KVjd"><img src="https://i.ibb.co/RjDcPYk/Zenitsu.jpg" alt="Zenitsu" border="0"></a>
+
+<p align="center">
 
 <p align="center">
   <a href="https://github.com/DGDEEPAK"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Dream+Guy+Deepak;Follow+My+Github" alt="UwU">
