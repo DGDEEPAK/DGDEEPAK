@@ -19,7 +19,7 @@
 
 ## 🙋How to reach me
 <p align="center">
-<a href="https://x.com/ideepak_02/"><img src="https://img.shields.io/badge/Follow Deepak-ff000000?style=for-the-badge&logo=x&logoColor=ff000000" />
+<a href="https://x.com/ideepak_02/"><img src="https://img.shields.io/badge/Follow Deepak-ff000000?style=for-the-badge&logo=x&logoColor=#000000" />
 <a href="https://instagram.com/ideepak_02/"><img src="https://img.shields.io/badge/Follow Deepak-ff000000?style=for-the-badge&logo=instagram&logoColor=ff000000" />
 <a href="https://t.me/ideepak_02"><img src="https://img.shields.io/badge/Contact Deepak-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://wa.me/918348225320"><img src="https://img.shields.io/badge/Contact Deepak-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
