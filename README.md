@@ -1,10 +1,10 @@
 ### About me
-<h1 align="center">ꪶ🦄Dream Guy Deepakꫂ<br></h1>
+<h1 align="center">ꪶ🦄Deepakꫂ<br></h1>
 
 <a href="https://ibb.co/C6gVD1m"><img src="https://i.ibb.co/jzm3s6b/IMG-20240715-130929.jpg" alt="IMG-20240715-130929" border="0"></a>
 
 <p align="center">
-  <a href="https://github.com/DGDEEPAK"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Dream+Guy+Deepak;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/DGDEEPAK"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=It's+Me+Deepak;Follow+My+Github" alt="UwU">
 </p>
 
 - 👋Hi, I’m Deepak
